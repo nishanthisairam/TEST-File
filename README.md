@@ -1,2 +1,3 @@
 # TEST-File
-myh first repo
+my first repo
+going to write Hello World code using Java
